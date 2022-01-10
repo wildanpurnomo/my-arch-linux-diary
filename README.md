@@ -8,3 +8,4 @@ Each chapter will be done in different branches:
 - After Story: DE (Desktop Environment)
 - After Story: Gaming
 - After Story: Maintenance
+- TBD. My head's a mess.
